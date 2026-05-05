@@ -1,0 +1,3 @@
+WRN 2026-05-05T15:51:39.628 ?.58431    server_start:199: Failed to start server: operation not permitted: /var/folders/fr/2vml29813z78m8j4k96pk3400000gn/T/nvim.asiel/EKDkLW/nvim.58431.0
+WRN 2026-05-05T15:52:14.123 ?.59710    server_start:199: Failed to start server: operation not permitted: /var/folders/fr/2vml29813z78m8j4k96pk3400000gn/T/nvim.asiel/3XVblW/nvim.59710.0
+WRN 2026-05-05T15:57:47.565 ?.60687    server_start:199: Failed to start server: operation not permitted: /var/folders/fr/2vml29813z78m8j4k96pk3400000gn/T/nvim.asiel/nrNyyy/nvim.60687.0
